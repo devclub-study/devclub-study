@@ -1,4 +1,4 @@
-# 📘 15.0 Request-Based 모델
+# 15.0 Request-Based 모델
 
 Request-Based 모델은 시스템 간의 통신이 **요청(Request)** 과 **응답(Response)** 에 기반하여 동작하는 소프트웨어 아키텍처 스타일
 주로 HTTP, RPC, gRPC 등의 프로토콜을 사용하며, **마이크로서비스 아키텍처**에서 널리 활용
@@ -38,7 +38,7 @@ Client --> API Gateway --> Auth Service --> User Service --> DB
 | **10. Mediated Event-Driven Architecture** | 직접 호출 대신 중재자(Mediator)를 통해 이벤트 중심 구조 구성. |
 
 
-## 📊 15.3 종합 평가
+## 15.3 종합 평가
 
 | 항목 | 평가 |
 |------|------|
